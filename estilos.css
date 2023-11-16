@@ -3,7 +3,7 @@
 }
 
 body{
-    background-image: url(/Recursos-la-victoria/Img-iglesia/373011334_702641485236482_2677615512023787665_n.jpg) ;
+    background-image: url(Recursos-la-victoria/Img-iglesia/373011334_702641485236482_2677615512023787665_n.jpg) ;
     margin: 0 auto;
     background-repeat: round;
     
@@ -20,7 +20,7 @@ body{
 }
 
 .portada{
-    background-image: url(/Recursos-la-victoria/congreso-de-mujeres/iconos/arreglo-1-ico.ico);
+    background-image: url(Recursos-la-victoria/iconos/arreglo-1-ico.ico);
     height: 140px;
     width: 260px;
     border-radius: 50%;
@@ -30,7 +30,7 @@ body{
 }
 
 .fondo1{
-    background-image: url(/Recursos-la-victoria/Img-iglesia/correccion-1.jpg);
+    background-image: url(Recursos-la-victoria/Img-iglesia/correccion-1.jpg);
     height: 360px;
     width: 800px;
     background-repeat: no-repeat;
